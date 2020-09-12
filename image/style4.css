@@ -1,0 +1,46 @@
+body{
+  margin:0 ;
+  padding: 0;
+  background-color:#000;
+  font-family: 'Niconne', cursive; 
+}
+#div1{
+  height:300px ;
+  background-color: palegoldenrod;
+
+}
+  
+ .profile-image{
+  height: 120px;
+  width: 220px;
+  border-radius:Triangle  100%;
+  float: right;
+   padding: 100px;
+}
+
+#div2{
+  height:200px ;
+  background-color:white;
+  width: 60%;
+  margin:auto ;
+  z-index:2;
+  position: relative;
+  margin-top: -30px;
+  margin-bottom: -30px;
+}
+#div3{
+  height:300px ;
+  background-color:palegoldenrod;
+}
+.div{
+  text-align: center;
+ 
+}
+.btn{
+  width: 100px;
+  height: 30px;
+  background-color: burlywood;
+  border-radius: circle 30px ;
+
+}
+ 
